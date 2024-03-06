@@ -12,7 +12,9 @@ body{
   position: relative;
   display: inline-block;
 }
-
+.search.active{
+	border:none;
+}
 .input {
   padding: 5px;
   padding-right: 30px; /* Adjust based on the button width */
